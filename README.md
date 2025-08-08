@@ -1,4 +1,4 @@
-## Hi, I'm Umidjon Bozorov <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqOHdqZ3RsY3Nqc2JsMWFpcmQ2OWdqbHQ3NzZsZjNsb3RqcDNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px">
+## Hi, I'm Umidjon Bozorov <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqOHdqZ3RsY3Nqc2JsMWFpcmQ2OWdqbHQ3NzZsZjNsb3RqcDNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="40px">
 
 <!--
 **umidjon2oo9/umidjon2oo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
